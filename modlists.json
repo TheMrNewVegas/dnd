@@ -1,0 +1,43 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Dungeons & Daedra",
+    "description": "Dungeons & Daedra is an Modlist aiming to bring the Elder Scrolls to its original inspiration; Dungeons & Dragons. Through various mechanics and graphical updates this modpack aims to do just this.",
+    "author": "TheMrNewVegas",
+    "maintainers": [
+      "github/TheMrNewVegas"
+    ],
+    "game": "oblivion",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "Hardcore",
+      "Survival",
+      "Overhaul",
+      "Roleplay"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://cdn.discordapp.com/attachments/984100624733962340/1019714064622030919/Capital_Punishment.jpg",
+      "readme": "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Before-We-Get-Started",
+      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_d95287f6-07d6-4fe2-ac3a-26a4d4081239",
+      "machineURL": "dnd",
+      "discordURL": "https://discord.gg/43EhRjU"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "NdedZHDY91g=",
+      "Size": 5610062,
+      "NumberOfArchives": 876,
+      "SizeOfArchives": 33311765657,
+      "NumberOfInstalledFiles": 51132,
+      "SizeOfInstalledFiles": 60362679218
+    },
+    "version": "0.1",
+    "RepositoryName": ""
+  }
+]
