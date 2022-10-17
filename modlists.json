@@ -31,11 +31,11 @@
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "NdedZHDY91g=",
-      "Size": 5610062,
-      "NumberOfArchives": 876,
-      "SizeOfArchives": 33311765657,
-      "NumberOfInstalledFiles": 51132,
-      "SizeOfInstalledFiles": 60362679218
+      "Size": 42743285,
+      "NumberOfArchives": 403,
+      "SizeOfArchives": 25774652879,
+      "NumberOfInstalledFiles": 38015,
+      "SizeOfInstalledFiles": 42953937753
     },
     "version": "0.1",
     "RepositoryName": ""
