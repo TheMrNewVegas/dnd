@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Dungeons & Daedra",
-    "description": "Dungeons & Daedra is an Modlist aiming to bring the Elder Scrolls to its original inspiration; Dungeons & Dragons. Through various mechanics and graphical updates this modpack aims to do just this.",
+    "title": "Dungeons \u0026 Daedra",
+    "description": "Dungeons \u0026 Daedra is an Modlist aiming to bring the Elder Scrolls to its original inspiration; Dungeons \u0026 Dragons. Through various mechanics and graphical updates this modpack aims to do just this.",
     "author": "TheMrNewVegas",
     "maintainers": [
       "github/TheMrNewVegas"
@@ -11,7 +10,7 @@
     "official": false,
     "tags": [
       "Unofficial",
-      "Dungeons & Dragons",
+      "Dungeons \u0026 Dragons",
       "Semi-Hardcore",
       "Overhaul",
       "Roleplay"
@@ -21,23 +20,23 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1029271654112710696/DD.jpg",
       "readme": "https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Before-We-Get-Started",
-      "download": "https://authored-files.wabbajack.org/Capital Punishment.wabbajack_d95287f6-07d6-4fe2-ac3a-26a4d4081239",
+      "download": "https://authored-files.wabbajack.org/Dungeons \u0026 Daedra.wabbajack_87152f4d-ea2e-4dbe-a96c-bdcfec6399e3",
       "machineURL": "dnd",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "KbCB7kxVecM=",
-      "Size": 42140782,
+      "Hash": "vU8jWXCTfX8=",
+      "Size": 42140780,
       "NumberOfArchives": 399,
       "SizeOfArchives": 25679698015,
       "NumberOfInstalledFiles": 37579,
-      "SizeOfInstalledFiles": 42776412566
+      "SizeOfInstalledFiles": 42776412569
     },
     "version": "0.2",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-30T09:40:07.533202Z",
+    "repositoryName": ""
   }
 ]
