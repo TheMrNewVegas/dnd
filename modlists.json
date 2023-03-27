@@ -18,7 +18,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1029271654112710696/DD.jpg",
       "readme": "https://github.com/TheMrNewVegas/dnd/wiki/Before-We-Get-Started",
