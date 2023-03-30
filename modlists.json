@@ -1,7 +1,7 @@
 [
   {
     "title": "Dungeons \u0026 Daedra",
-    "description": "Dungeons \u0026 Daedra is an Modlist aiming to bring the Elder Scrolls to its original inspiration; Dungeons \u0026 Dragons. Through various mechanics and graphical updates this modpack aims to do just this.",
+    "description": "Dungeons & Daedra is an Modlist aiming to bring the Elder Scrolls to its original inspiration; Dungeons & Dragons. Through various mechanics and graphical updates this modpack aims to do just this. This is largely thanks to both the Heartland team & Bevilex's mod guide!",
     "author": "TheMrNewVegas",
     "maintainers": [
       "github/TheMrNewVegas"
@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1029271654112710696/DD.jpg",
-      "readme": "https://github.com/TheMrNewVegas/dnd/wiki/Before-We-Get-Started",
+      "readme": "https://www.modlists.net/05DungeonsDaedra/2-Install-Guide/",
       "download": "https://authored-files.wabbajack.org/D\u0026D.wabbajack_e4818962-6270-4420-b8fd-87e4f05b7dce",
       "machineURL": "dnd",
       "discordURL": "https://discord.gg/43EhRjU"
