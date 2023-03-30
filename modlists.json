@@ -22,21 +22,21 @@
     "links": {
       "image": "https://cdn.discordapp.com/attachments/984100624733962340/1029271654112710696/DD.jpg",
       "readme": "https://github.com/TheMrNewVegas/dnd/wiki/Before-We-Get-Started",
-      "download": "https://authored-files.wabbajack.org/Dungeons \u0026 Daedra.wabbajack_f3112778-f3a6-47c8-9c74-0d58a33dfb7f",
+      "download": "https://authored-files.wabbajack.org/D\u0026D.wabbajack_e4818962-6270-4420-b8fd-87e4f05b7dce",
       "machineURL": "dnd",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "l+Gx+ZPXHCs=",
-      "Size": 42157165,
-      "NumberOfArchives": 401,
-      "SizeOfArchives": 25729276938,
-      "NumberOfInstalledFiles": 37793,
-      "SizeOfInstalledFiles": 42789017863
+      "Hash": "93mi3S0lA58=",
+      "Size": 45559542,
+      "NumberOfArchives": 222,
+      "SizeOfArchives": 18289683644,
+      "NumberOfInstalledFiles": 38413,
+      "SizeOfInstalledFiles": 35067124534
     },
-    "version": "0.21",
+    "version": "0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-11-01T05:07:20.0570325Z",
+    "dateUpdated": "2023-03-30T04:55:47.1755404Z",
     "repositoryName": ""
   }
 ]
