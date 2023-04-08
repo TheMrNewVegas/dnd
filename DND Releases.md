@@ -23,6 +23,9 @@
 - [No Inventory on Alt-Tab](https://www.nexusmods.com/oblivion/mods/52716?tab=description)
 - [List Missing Mods](https://www.nexusmods.com/oblivion/mods/52717)
 - [Seamless Khats & Args](https://www.nexusmods.com/oblivion/mods/46578?tab=files)
+- [Dungeons of Tamriel](https://www.nexusmods.com/oblivion/mods/52835?tab=description)
+- [Sewers for Every City](https://www.nexusmods.com/oblivion/mods/52693?tab=description)
+- [SoEC & DoT Patched Entrances](https://www.nexusmods.com/oblivion/mods/52829)
 
 **Updated**
 
