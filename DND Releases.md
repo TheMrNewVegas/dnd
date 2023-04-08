@@ -22,6 +22,7 @@
 - [Consoie Ignores Player](https://www.nexusmods.com/oblivion/mods/52721)
 - [No Inventory on Alt-Tab](https://www.nexusmods.com/oblivion/mods/52716?tab=description)
 - [List Missing Mods](https://www.nexusmods.com/oblivion/mods/52717)
+- [Seamless Khats & Args](https://www.nexusmods.com/oblivion/mods/46578?tab=files)
 
 **Updated**
 
