@@ -15,6 +15,13 @@
 - [Dark Brotherhood Revised](https://www.nexusmods.com/oblivion/mods/52799?tab=files)
 - [Better Dungeons](https://www.nexusmods.com/oblivion/mods/40392?tab=files)
 - [Dungeons of Blackwood](https://www.nexusmods.com/oblivion/mods/36152)
+- [Ultimate Levelling](https://www.nexusmods.com/oblivion/mods/49134?tab=files)
+- [Av Latta Magicka](https://www.nexusmods.com/oblivion/mods/49096?tab=files)
+- [No Lockpick Activate](https://www.nexusmods.com/oblivion/mods/52719?tab=files)
+- [Quick Item Transfer](https://www.nexusmods.com/oblivion/mods/52718?tab=files)
+- [Consoie Ignores Player](https://www.nexusmods.com/oblivion/mods/52721)
+- [No Inventory on Alt-Tab](https://www.nexusmods.com/oblivion/mods/52716?tab=description)
+- [List Missing Mods](https://www.nexusmods.com/oblivion/mods/52717)
 
 **Updated**
 
