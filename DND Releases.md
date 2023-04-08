@@ -13,7 +13,8 @@
 - [Fighters Guilde Revised](https://www.nexusmods.com/oblivion/mods/52796?tab=description)
 - [Mages Guild Revised](https://www.nexusmods.com/oblivion/mods/52798?tab=description)
 - [Dark Brotherhood Revised](https://www.nexusmods.com/oblivion/mods/52799?tab=files)
-
+- [Better Dungeons](https://www.nexusmods.com/oblivion/mods/40392?tab=files)
+- [Dungeons of Blackwood](https://www.nexusmods.com/oblivion/mods/36152)
 
 **Updated**
 
