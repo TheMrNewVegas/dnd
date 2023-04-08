@@ -31,6 +31,8 @@
 - [Archery Rebalance](https://www.nexusmods.com/oblivion/mods/23484)
 > If added make sure to remove the wryebash step for arrow speed
 - [Ragdolls & Optional Wraith Ragdolls](https://www.nexusmods.com/oblivion/mods/51844?tab=files)
+- [WEPON Base Install Oblivion and SI & Update](https://www.nexusmods.com/oblivion/mods/35560?tab=files)
+- [Enhanced Economy](https://www.nexusmods.com/oblivion/mods/25078?tab=files)
 
 **Updated**
 
