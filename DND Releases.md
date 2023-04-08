@@ -26,6 +26,11 @@
 - [Dungeons of Tamriel](https://www.nexusmods.com/oblivion/mods/52835?tab=description)
 - [Sewers for Every City](https://www.nexusmods.com/oblivion/mods/52693?tab=description)
 - [SoEC & DoT Patched Entrances](https://www.nexusmods.com/oblivion/mods/52829)
+- [Consistent Race Heights](https://www.nexusmods.com/oblivion/mods/51575?tab=files)
+- [JJ's Birthsigns](https://www.nexusmods.com/oblivion/mods/50333?tab=files&file_id=1000025491&nmm=1)
+- [Archery Rebalance](https://www.nexusmods.com/oblivion/mods/23484)
+> If added make sure to remove the wryebash step for arrow speed
+- [Ragdolls & Optional Wraith Ragdolls](https://www.nexusmods.com/oblivion/mods/51844?tab=files)
 
 **Updated**
 
