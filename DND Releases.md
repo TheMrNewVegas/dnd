@@ -6,6 +6,11 @@
 ### Save Safe?: No
 
 **Added**
+- [Oblivion Jobs]()
+- [Maskar's Unarmored Skill](https://www.nexusmods.com/oblivion/mods/49555?tab=files&file_id=1000028353&nmm=1)
+- [Horse Gameplay Overhaul](https://www.nexusmods.com/oblivion/mods/52797?tab=description)
+- [Oblivion Jobs](https://www.nexusmods.com/oblivion/mods/44087)
+
 
 **Updated**
 
