@@ -10,6 +10,9 @@
 - [Maskar's Unarmored Skill](https://www.nexusmods.com/oblivion/mods/49555?tab=files&file_id=1000028353&nmm=1)
 - [Horse Gameplay Overhaul](https://www.nexusmods.com/oblivion/mods/52797?tab=description)
 - [Oblivion Jobs](https://www.nexusmods.com/oblivion/mods/44087)
+- [Fighters Guilde Revised](https://www.nexusmods.com/oblivion/mods/52796?tab=description)
+- [Mages Guild Revised](https://www.nexusmods.com/oblivion/mods/52798?tab=description)
+- [Dark Brotherhood Revised](https://www.nexusmods.com/oblivion/mods/52799?tab=files)
 
 
 **Updated**
