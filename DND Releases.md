@@ -33,6 +33,12 @@
 - [Ragdolls & Optional Wraith Ragdolls](https://www.nexusmods.com/oblivion/mods/51844?tab=files)
 - [WEPON Base Install Oblivion and SI & Update](https://www.nexusmods.com/oblivion/mods/35560?tab=files)
 - [Enhanced Economy](https://www.nexusmods.com/oblivion/mods/25078?tab=files)
+- [Daedric Quests Revised](https://www.nexusmods.com/oblivion/mods/52830)
+- [TRAP](https://www.nexusmods.com/oblivion/mods/26216?tab=description)
+- [Enhanced Grabbing](https://www.nexusmods.com/oblivion/mods/19847?tab=files)
+- [Enhanced Grabbing - Elevenlabs](https://www.nexusmods.com/oblivion/mods/52893?tab=description)
+- [Lubron's Patch - Enhanced Economy](https://www.nexusmods.com/oblivion/mods/47184)
+- [Insanity's Improved Armoury](https://www.moddb.com/games/oblivion/addons/insanitys-improved-armoury-compilation-121-final)
 
 **Updated**
 
