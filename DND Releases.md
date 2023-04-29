@@ -15,6 +15,8 @@
 - [Nosferat's Merchant & Loot Additions](https://www.nexusmods.com/oblivion/mods/52544?tab=description)
 - [The Black Mirror - Necromancer Shop & Better Cities Patch](https://www.nexusmods.com/oblivion/mods/51499?tab=files)
 - [Improved Chests](https://www.nexusmods.com/oblivion/mods/51815?tab=files)
+- [Alternative Start - Arrive by Ship](https://www.nexusmods.com/oblivion/mods/11495?tab=files)
+-[Alternative Start - Arrive by Ship Unofficial Patch](https://www.nexusmods.com/oblivion/mods/49897?tab=files)
 
 **Updated**
 
