@@ -3,6 +3,19 @@
 
 ## Release 0.35
 
+## Release 0.36
+
+### Save Safe?: No
+
+**Added**
+
+
+**Updated**
+
+**Removed**
+
+**Fixed**
+
 ### Save Safe?: No
 
 **Added**
@@ -42,6 +55,8 @@
 - [AddActorValues](https://www.nexusmods.com/oblivion/mods/33248?tab=files)
 
 **Updated**
+- OBSE
+> 22.8
 
 **Removed**
 
