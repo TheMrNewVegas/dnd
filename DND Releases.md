@@ -9,6 +9,7 @@
 - [Fundamental Enchanting Addon](https://www.nexusmods.com/oblivion/mods/41553?tab=files)
 - [Display Skill Perk Effects](https://www.nexusmods.com/oblivion/mods/50127?tab=files)
 - [Collector Quests Revised](https://www.nexusmods.com/oblivion/mods/52916?tab=files)
+- [Loot Feed](https://www.nexusmods.com/oblivion/mods/52763)
 
 **Updated**
 
