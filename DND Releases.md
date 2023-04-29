@@ -10,6 +10,11 @@
 - [Display Skill Perk Effects](https://www.nexusmods.com/oblivion/mods/50127?tab=files)
 - [Collector Quests Revised](https://www.nexusmods.com/oblivion/mods/52916?tab=files)
 - [Loot Feed](https://www.nexusmods.com/oblivion/mods/52763)
+- [EF's Fishing Mod](https://www.nexusmods.com/oblivion/mods/52101?tab=description)
+- [Death Notifications](https://www.nexusmods.com/oblivion/mods/51424?tab=files)
+- [Nosferat's Merchant & Loot Additions](https://www.nexusmods.com/oblivion/mods/52544?tab=description)
+- [The Black Mirror - Necromancer Shop & Better Cities Patch](https://www.nexusmods.com/oblivion/mods/51499?tab=files)
+- [Improved Chests](https://www.nexusmods.com/oblivion/mods/51815?tab=files)
 
 **Updated**
 
