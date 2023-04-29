@@ -23,7 +23,7 @@
 **Removed**
 
 **Fixed**
-
+- Insanity's Armor Compilation Causing Failed Wabba Downloads
 
 ## Release 0.35
 
