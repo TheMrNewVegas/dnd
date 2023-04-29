@@ -1,6 +1,23 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 0.4
+
+### Save Safe?: No
+
+**Added**
+- [Fundamental Enchanting Addon](https://www.nexusmods.com/oblivion/mods/41553?tab=files)
+- [Display Skill Perk Effects](https://www.nexusmods.com/oblivion/mods/50127?tab=files)
+- [Collector Quests Revised](https://www.nexusmods.com/oblivion/mods/52916?tab=files)
+
+**Updated**
+
+
+**Removed**
+
+**Fixed**
+
+
 ## Release 0.36
 
 ### Save Safe?: No
