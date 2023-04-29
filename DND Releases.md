@@ -1,20 +1,31 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
-## Release 0.35
-
 ## Release 0.36
 
 ### Save Safe?: No
 
 **Added**
 
-
 **Updated**
+- AWLS
+> 5.5.4 to 5.6.2
+- Oblivion 2020 Retexture Project - Landscape & Rocks
+> 2.0 to 3.0
+- Oblivion 2020 Retexture Project - Trees
+> 1.5 to 2.1
+- Oblivion 2020 Retexture Project - Snowy Roofs in Bruma for AWLS
+> 1.1 to 1.5
+- Book Jackets for Misc DLC
+> 1.2 to 1.4
+
 
 **Removed**
 
 **Fixed**
+
+
+## Release 0.35
 
 ### Save Safe?: No
 
