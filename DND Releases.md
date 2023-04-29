@@ -39,6 +39,7 @@
 - [Enhanced Grabbing - Elevenlabs](https://www.nexusmods.com/oblivion/mods/52893?tab=description)
 - [Lubron's Patch - Enhanced Economy](https://www.nexusmods.com/oblivion/mods/47184)
 - [Insanity's Improved Armoury](https://www.moddb.com/games/oblivion/addons/insanitys-improved-armoury-compilation-121-final)
+- [AddActorValues](https://www.nexusmods.com/oblivion/mods/33248?tab=files)
 
 **Updated**
 
