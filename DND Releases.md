@@ -15,6 +15,14 @@
 - [Nosferat's Merchant & Loot Additions](https://www.nexusmods.com/oblivion/mods/52544?tab=description)
 - [The Black Mirror - Necromancer Shop & Better Cities Patch](https://www.nexusmods.com/oblivion/mods/51499?tab=files)
 - [Improved Chests](https://www.nexusmods.com/oblivion/mods/51815?tab=files)
+- [Spire of Eternity](https://www.nexusmods.com/oblivion/mods/49763)
+- [Creature Diversity](https://www.nexusmods.com/oblivion/mods/26634?tab=files)
+- [SI Whispersins](https://www.nexusmods.com/oblivion/mods/51623?tab=description)
+- [SI Cities Expanded](https://www.nexusmods.com/oblivion/mods/51075?tab=files)
+- [SI Driftdwell](https://www.nexusmods.com/oblivion/mods/52324?tab=files)
+- [SI Unmarked Locations](https://www.nexusmods.com/oblivion/mods/51169?tab=files)
+- [SI New Sheoth Outskirts](https://www.nexusmods.com/oblivion/mods/51232?tab=files)
+- [SI New Sheoth Palace Improvements](https://www.nexusmods.com/oblivion/mods/51505?tab=files)
 
 **Updated**
 
