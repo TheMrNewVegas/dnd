@@ -24,7 +24,12 @@
 - [SI New Sheoth Outskirts](https://www.nexusmods.com/oblivion/mods/51232?tab=files)
 - [SI New Sheoth Palace Improvements](https://www.nexusmods.com/oblivion/mods/51505?tab=files)
 - [Artifacts Remastered](https://www.nexusmods.com/oblivion/mods/52084?tab=files)
-- [Delay DLC Start](https://www.nexusmods.com/oblivion/mods/52871?tab=files)
+- [Kvatch Rebuilt](https://www.nexusmods.com/oblivion/mods/15412?tab=files)
+- [The Ayleid Steps](https://www.nexusmods.com/oblivion/mods/16316?tab=files)
+- [COBL](https://www.nexusmods.com/oblivion/mods/21104)
+- [Elsweyr The Deserts of Anequina](https://www.nexusmods.com/oblivion/mods/25023?tab=files)
+- [The Firmament](https://www.nexusmods.com/oblivion/mods/50991)
+- [East Empire Company mod (Better Cities Version)](https://www.nexusmods.com/oblivion/mods/51177?tab=files)
 
 **Updated**
 
