@@ -24,6 +24,7 @@
 - [SI New Sheoth Outskirts](https://www.nexusmods.com/oblivion/mods/51232?tab=files)
 - [SI New Sheoth Palace Improvements](https://www.nexusmods.com/oblivion/mods/51505?tab=files)
 - [Artifacts Remastered](https://www.nexusmods.com/oblivion/mods/52084?tab=files)
+- [Delay DLC Start](https://www.nexusmods.com/oblivion/mods/52871?tab=files)
 
 **Updated**
 
