@@ -33,6 +33,8 @@
 
 
 **Removed**
+- TRAP
+> Causing weird visual bug with Khajitt Nightvision
 
 **Fixed**
 
