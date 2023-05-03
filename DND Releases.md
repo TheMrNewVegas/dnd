@@ -6,7 +6,7 @@
 ### Save Safe?: Yes; Reload Into & Out of a Cell to Fully Apply Changes
 
 **Added**
-
+- [Elsweyr Anequina - Khajiit Compatibility (No Whiskers Option)](https://www.nexusmods.com/oblivion/mods/50273?tab=description)
 
 **Updated**
 
@@ -17,6 +17,7 @@
 **Fixed**
 - Large Amount of Texture Overwrite Issues; Still More to Fix But Will Fix a Majority
 > [Link to Changes](https://trello.com/c/sycqyRwq/88-fix-texture-mismatches-in-mo2)
+- Whiskers on Subrace Khajiit's being broken
 
 ## Release 0.4
 
@@ -45,7 +46,6 @@
 - [Elsweyr The Deserts of Anequina](https://www.nexusmods.com/oblivion/mods/25023?tab=files)
 - [The Firmament](https://www.nexusmods.com/oblivion/mods/50991)
 - [East Empire Company mod (Better Cities Version)](https://www.nexusmods.com/oblivion/mods/51177?tab=files)
-- [Elsweyr Anequina - Khajiit Compatibility (No Whiskers Option)](https://www.nexusmods.com/oblivion/mods/50273?tab=description)
 
 **Updated**
 
