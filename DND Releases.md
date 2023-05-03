@@ -6,6 +6,23 @@
 ### Save Safe?: No
 
 **Added**
+
+
+**Updated**
+
+
+**Removed**
+
+
+**Fixed**
+- Large Amount of Texture Overwrite Issues; Still More to Fix But Will Fix a Majority
+> [Link to Changes](https://trello.com/c/sycqyRwq/88-fix-texture-mismatches-in-mo2)
+
+## Release 0.4
+
+### Save Safe?: No
+
+**Added**
 - [Fundamental Enchanting Addon](https://www.nexusmods.com/oblivion/mods/41553?tab=files)
 - [Display Skill Perk Effects](https://www.nexusmods.com/oblivion/mods/50127?tab=files)
 - [Collector Quests Revised](https://www.nexusmods.com/oblivion/mods/52916?tab=files)
