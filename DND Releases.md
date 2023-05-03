@@ -3,7 +3,7 @@
 
 ## Release 0.4.1
 
-### Save Safe?: No
+### Save Safe?: Yes; Reload Into & Out of a Cell to Apply Texture Changes
 
 **Added**
 
