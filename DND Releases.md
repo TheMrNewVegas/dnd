@@ -1,6 +1,13 @@
 # Releases (Newest to Oldest)
 ## Visit our [Trello](https://trello.com/b/mZ6GzGul/mnv-development-task-list) for more In Depth Development Logs
 
+## Release 0.4.1.2
+
+- Usually better about logging changes made but had to go out of town mid updating and was not able too and have forgotten a few of the changes made. This being said, some problematic mods have been removed and hopefully this should fix a few bugs. Av latta Magicka has been a source of some issues but we are keeping it for the time being to see if there is any possible way to fix it.
+
+**Removed**
+- Enhanced Grabbing & 11 Labs Addition
+
 ## Release 0.4.1
 
 ### Save Safe?: Yes; Reload Into & Out of a Cell to Fully Apply Changes
