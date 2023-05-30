@@ -22,21 +22,21 @@
     "links": {
       "image": "https://user-images.githubusercontent.com/112358568/228933756-09510dba-1dcb-43c4-b027-c04ec3eb4080.jpg",
       "readme": "https://www.modlists.net/05DungeonsDaedra/2-Install-Guide/",
-      "download": "https://authored-files.wabbajack.org/Dungeons \u0026 Daedra.wabbajack_f292b679-20a7-4cd6-a9c4-1e979c18c99d",
+      "download": "https://authored-files.wabbajack.org/Dungeons \u0026 Daedra.wabbajack_aba91c55-f125-4ee1-99ff-467cce74af92",
       "machineURL": "dnd",
       "discordURL": "https://discord.gg/43EhRjU"
     },
     "download_metadata": {
-      "Hash": "F4P7J6l3uCM=",
-      "Size": 45839974,
+      "Hash": "WaSB65bQoyM=",
+      "Size": 47600981,
       "NumberOfArchives": 285,
       "SizeOfArchives": 21235810213,
-      "NumberOfInstalledFiles": 42383,
-      "SizeOfInstalledFiles": 39004140068
+      "NumberOfInstalledFiles": 42382,
+      "SizeOfInstalledFiles": 39004139791
     },
     "version": "0.4.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-16T07:28:08.4461558Z",
+    "dateUpdated": "2023-05-30T04:16:13.7229336Z",
     "repositoryName": ""
   }
 ]
